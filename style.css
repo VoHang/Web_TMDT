@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Itim&family=Lora&family=Philosopher:ital@1&display=swap");
+button, button:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.font-lora {
+  font-family: "lora", cursive;
+}
+
+.font-ltim {
+  font-family: "ltim", cursive;
+}
+
+.font-philosopher {
+  font-family: "philosopher", cursive;
+}
+
+.font-size-12 {
+  font-size: 12px;
+}
+
+.font-size-14 {
+  font-size: 14px;
+}
+
+.font-size-16 {
+  font-size: 16px;
+}
+
+.font-size-18 {
+  font-size: 18px;
+}
+
+.font-size-20 {
+  font-size: 20px;
+}
+
+.color-bg {
+  background-color: #ffcccc;
+}
+
+.color-primary {
+  background-color: black;
+}
+
+.hong {
+  color: #ffcccc;
+}
+
+/*# sourceMappingURL=style.css.map */
